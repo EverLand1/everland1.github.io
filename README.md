@@ -1,1 +1,1 @@
-# blog
+Hi, this is a simple blog about my passion projects and learning experiences that I want to share with everyone! Thanks for checking it out!
